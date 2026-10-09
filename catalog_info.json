@@ -1,0 +1,60 @@
+{
+  "title": "קטלוג איגלו",
+  "pages": 10,
+  "theme": "default",
+  "createdAt": "2026-10-09 04:31:16",
+  "pageInfo": [
+    {
+      "pageNumber": 1,
+      "imagePath": "images/page_1.jpg",
+      "thumbPath": "thumbs/thumb_1.jpg"
+    },
+    {
+      "pageNumber": 2,
+      "imagePath": "images/page_2.jpg",
+      "thumbPath": "thumbs/thumb_2.jpg"
+    },
+    {
+      "pageNumber": 3,
+      "imagePath": "images/page_3.jpg",
+      "thumbPath": "thumbs/thumb_3.jpg"
+    },
+    {
+      "pageNumber": 4,
+      "imagePath": "images/page_4.jpg",
+      "thumbPath": "thumbs/thumb_4.jpg"
+    },
+    {
+      "pageNumber": 5,
+      "imagePath": "images/page_5.jpg",
+      "thumbPath": "thumbs/thumb_5.jpg"
+    },
+    {
+      "pageNumber": 6,
+      "imagePath": "images/page_6.jpg",
+      "thumbPath": "thumbs/thumb_6.jpg"
+    },
+    {
+      "pageNumber": 7,
+      "imagePath": "images/page_7.jpg",
+      "thumbPath": "thumbs/thumb_7.jpg"
+    },
+    {
+      "pageNumber": 8,
+      "imagePath": "images/page_8.jpg",
+      "thumbPath": "thumbs/thumb_8.jpg"
+    },
+    {
+      "pageNumber": 9,
+      "imagePath": "images/page_9.jpg",
+      "thumbPath": "thumbs/thumb_9.jpg"
+    },
+    {
+      "pageNumber": 10,
+      "imagePath": "images/page_10.jpg",
+      "thumbPath": "thumbs/thumb_10.jpg"
+    }
+  ],
+  "fullscreen": true,
+  "backgroundColor": "#333333"
+}
